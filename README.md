@@ -7,13 +7,18 @@ Requirements
 Python 2.7
 django 1.9
 couchbase server 4.0 (community edition)
+
 <url>http://www.couchbase.com/nosql-databases/downloads</url>
+
 couchbase python client
+
 <url>https://pypi.python.org/pypi/couchbase</url>
 
 
 References
+
 <url>http://blog.couchbase.com/10-things-developers-should-know-about-couchbase</url>
+
 <url>https://www.youtube.com/watch?v=paNLXphyGCc</url>
 
 
